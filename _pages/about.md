@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yiheng Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a senior year undergraduate student from [University of Wisconsin-Madison](https://www.wisc.edu/). My research interet includes deep learning, machine learning and natural language processing.
+
+I am very fortunate to be advised by [Prof. Grigoris](https://grigorisg9gr.github.io/) from [University of Wisconsin-Madison](https://www.wisc.edu/).
+
+You can find my CV here: [Yiheng Zhang's CV](../assets/Yiheng_ZHANG_s_Resume (6).pdf).
+
+[Email](mailto:zhang2968@wisc.edu) / [Github](https://github.com/Yiheng0824) / [Linkedin](https://www.linkedin.com/in/yiheng-zhang-4a7023329/)
 
 A data-driven personal website
 ======
