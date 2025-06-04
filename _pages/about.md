@@ -13,5 +13,5 @@ I am very fortunate to be advised by [Prof. Grigoris](https://grigorisg9gr.githu
 
 You can find my CV here: [Yiheng Zhang's CV](../files/resume.pdf).
 
-[Email](mailto:zhang2968@wisc.edu) / [Github](https://github.com/Yiheng0824) / [Linkedin](https://www.linkedin.com/in/yiheng-zhang-4a7023329/)
+[Email](mailto:zhang2968@wisc.edu) / [Github](https://github.com/ELAINZ) / [Linkedin](https://www.linkedin.com/in/yiheng-zhang-4a7023329/)
 
