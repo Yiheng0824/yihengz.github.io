@@ -6,12 +6,6 @@
   position: relative;
   z-index: 1;
 }
-canvas {
-  position: fixed !important;
-  top: 0;
-  left: 0;
-  z-index: 0;
-}
 body {
   background: linear-gradient(270deg, #e0f7fa, #fce4ec, #f3e5f5);
   background-size: 600% 600%;
@@ -22,4 +16,10 @@ body {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
+}
+canvas {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  z-index: 0;
 }
